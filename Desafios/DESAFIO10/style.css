@@ -94,11 +94,15 @@ main a{
     color:var(--cor5);
     background-color:var(--cor1);
     font-weight: bold;
-    font-family: var(--fonte-destaque);
     padding: 2px 6px;
     text-decoration: none;
 }
-
+main a:hover{
+    text-decoration: underline;
+}
+main a::after{
+    content: "\1F517";
+}
 article{
     background-color: white;
     
