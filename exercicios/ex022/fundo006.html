@@ -7,19 +7,26 @@
 </head>
 <style>
     body{
-        height: 100vh;
+       /*  height: 100vh;
         background-color: black;
         background-image: url(imagens/wallpaper002.jpg);
         background-position: center center;
         background-repeat: no-repeat;
         background-size: cover;
+        background-attachment: fixed; */
+        /*Short-hand background
+        color > image > repeat > attatchment > position > size */
+        background: black url(imagens/wallpaper002.jpg) no-repeat fixed center center /cover;
+        
+        
+      
+        
     }
     main{
-        width: 400px;
+        max-width: 400px;
         border-radius: 10px;
         border: 5px solid black;
         background-color: white;
-        text-align: center;
         padding: 10px;
         margin: auto;
     }
