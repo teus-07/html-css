@@ -16,22 +16,21 @@
 }
 header{
     background-color: black;
-    padding: 50px;
     text-align: center;
+    color: white;
 }
 header h1{
     padding-top: 50px;
-    
     font-family: 'Passion';
     font-size: 10vw;
     font-variant: small-caps;
-    color: white;
+   
 
 }
 header p{
     font-size: 1em;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: white;
+    
     padding-bottom: 50px;
 }
 main p{
