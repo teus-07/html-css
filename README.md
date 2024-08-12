@@ -6,7 +6,7 @@
 <a href="https://teus-07.github.io/html-css/Desafios/DESAFIO10/android.html" target="_blank">Projeto Android</a>
 </li>
 <li>
-<a href="https://teus-07.github.io/html-css/Desafios/Cordel/">Cordel</a>
+<a href="https://teus-07.github.io/html-css/Desafios/Cordel/" target="_blank">Cordel</a>
 </li>
 
 </ul>
