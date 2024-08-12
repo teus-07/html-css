@@ -60,15 +60,20 @@ section > pre{
     background-color: black;
 }
 .imagem > pre {
-    background-color: rgba(0, 0, 0, 0.452);
+    background-color: #001000;
     color: white;
     display: inline-block;
     box-shadow: rgba(0, 0, 0, 0.192);
 }
 #img02{
     background-image: url(imagens/background002.jpg);
+    background-color: black;
 }
-#img02 > pre{
-    
-    background-color: rgba(0, 0, 0, 0.13);
+a{
+    color: white;
+    text-decoration: none;
 }
+a:hover{
+    text-decoration: underline;
+}
+
