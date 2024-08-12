@@ -67,17 +67,19 @@ footer{
 }
 #img01{
     background-image: url(imagens/background001.jpg);
-    background-color: black;
+    position: right center;
+    
 }
 .imagem > pre {
-    background-color: #001000;
+    background-color: #00100050;
+    box-shadow: inset 6px 6px 13px 0px #001000;
     color: white;
     display: inline-block;
     box-shadow: rgba(0, 0, 0, 0.192);
 }
 #img02{
     background-image: url(imagens/background002.jpg);
-    background-color: black;
+    
 }
 a{
     color: white;
