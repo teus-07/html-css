@@ -50,6 +50,16 @@ section > pre{
     font-family: 'Sriracha';
     white-space: pre-line;
 }
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    word-spacing: 0.3em;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 1.2em;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
 .imagem{
     background-position: right center;
     background-attachment: fixed;
